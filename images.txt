@@ -13,3 +13,4 @@ zabbix/zabbix-agent
 registry.k8s.io/ingress-nginx/controller:v1.11.2
 registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.3
 php:8-apache
+zabbix/zabbix-web-nginx-mysql:latest
